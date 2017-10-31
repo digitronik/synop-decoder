@@ -1,0 +1,12 @@
+code,cloud_type
+0,Cirrus
+1,Cirrocumulus
+2,Cirrostratus
+3,Altocumulus
+4,Altostratus
+5,Nimbostratus
+6,Stratocumulus
+7,Stratus
+8,Cumulus
+9,Cumulonimbus
+/,"Cloud not visible owing to darkness, fog, dust-storm, sandstorm or other analogous phenomena."

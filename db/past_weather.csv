@@ -1,0 +1,11 @@
+code,past_weather
+0,Cloud covering half or less of the sky throughout the appropriate period.
+1,Cloud covering more than half the sky during part of the appropriate period and covering half or less during part of the period.
+2,Cloud covering more than half of the sky throughout the appropriate period.
+3,"Sandstorm, duststorm or blowing snow."
+4,For or ice fog or thick haze
+5,Drizzle
+6,Rain
+7,"Snow, or rain and snow mixed."
+8,Shower(s)
+9,Thunderstorm(s) with or without precipitation.

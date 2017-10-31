@@ -1,0 +1,11 @@
+code,cloud_direction
+0,Stationary or no clouds
+1,NE
+2,E
+3,SE
+4,S
+5,SW
+6,W
+7,NW
+8,N
+9,No definite direction or unknown

@@ -1,0 +1,12 @@
+code,cloud_amount
+0,"No Stratocumulus, Stratus, Cumulus or Cumulonimbus"
+1,"Ragged Cumulus other than of bad weather, or Cumulus with little vertical extent and seemingly flattened, or both."
+2,"Cumulus of moderate or strong vertical extent generally with protuberances in the form of domes or towers, either accompanied or not by other Cumulus or by Stratocumulus; All having their bases at the same level"
+3,"Cumulonimbus, the summits of which, at least partially, lack sharp outlines, but are neither clearly fibrous (Cirriform) nor in the form of an anvil; Cumulus, Stratocumulus or Stratus may also be present"
+4,Stratocumulus formed by the spreading out of Cumulus Cumulus may also be present
+5,Stratocumulus not resulting from the spreading out of Cumulus
+6,"Stratus in a more or less continuous sheet or layer or in ragged shreds, or both, but no Stratus Fractus of bad weather."
+7,"Stratus fractus of bad weather or Cumulus fractus of bad weather (pannus), or both  usually below Altostratus or Nimbostratus. By bad weather is meant the conditions, which generally exist before, during or after precipitation."
+8,"Cumulus and Stratocumulus, other than those formed from the spreading out of Cumulus; the base of Cumulus is at a different level from that of Stratocumulus"
+9,"Cumulonimbus, the upper part of which is clearly fibrous (Cirriform) often in the form of an anvil; either accompanied or not by Cumulus, Stratus, stratocumulus or pannus."
+/,"Stratocumulus, Stratus, Cumulus and Cumulonimbus are invisible owing to darkness, fog, blowing dust or sand, or other similar phenomena"

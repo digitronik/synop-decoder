@@ -1,0 +1,15 @@
+code,cloud_amount
+0,"No Altocumulus, Altostratus or Nimbostratus"
+1,"Altrostratus, the greater part of which is semitransparent; through this part the sun or moon may be weakly visible, as through ground glass"
+2,"Altostratus, the greater part of which is sufficiently dense to hide the sun (or moon), or Nimbostratus."
+3,"Altocumulus, the greater part of which is semitransparent, the various elements of the cloud change only slowly and are all at a single level."
+4,"Patches (often in the form of almonds or fishes) of Altocumulus, the greater part of which is semi-transparent; the clouds are at one or more levels and the elements are continually changing in appearance."
+5,Semi-transparent Altocumulus in bands or Altocumulus in one more or less continuous layer progressively invading the sky; these Altocumulus clouds generally are growing denser as a whole; the layer may be opaque or may consist of two or more sheets
+6,Altocumulus resulting from the spreading out of Cumulus (or Cumulonimbus)
+7,"Any one of the following cases :
+A. Altocumulus in two or more layers, usually opaque in places and not progressively invading the sky;
+B. Opaque layer of Altocumulus, not progressively invading the sky;
+C. Altocumulus together with Altostratus or Nimbostratus"
+8,"Altocumulus with sprouts in the form of small towers or battlements, or Altocumulus having the appearance of Cumuliform tufts."
+9,"Altocumulus of a chaotic sky, generally at several levels"
+/,"Altocumulus, Altostratus and Nimbostratus are invisible owing to darkness, fog, blowing dust or sand, or other similar phenomena, or more often because of the presence of a continuous layer of lower clouds."
